@@ -1,0 +1,5 @@
+.idea
+vendor
+__MACOSX
+writable
+composer.lock
